@@ -12,7 +12,7 @@ As arenas e personagens, em estilo pixel art, são gradualmente desbloqueados. O
 
 ## Equipe
 
-- [Analice Souto](https://www.linkedin.com/in/analicesouto/) (líder)
+- [Analice Souto](https://www.linkedin.com/in/analicesouto/) 
 - [José Thomaz](https://www.linkedin.com/in/jose-thomaz/)
 - [Julia de Jesus](https://www.linkedin.com/in/julia-de-jesus-dos-santos/)
 - [Leandro Oliveira](www.linkedin.com/in/leandro-de-oliveira-26091721b)
