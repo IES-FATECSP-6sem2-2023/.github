@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./capa.png" width="1336" heigth="751.5" alt="Descrição da Imagem">
+  <img src="./capa.png" width="1336" heigth="751.5" alt="Capa Jogo Da Onça">
 </p>
 
 ## Objetivo
