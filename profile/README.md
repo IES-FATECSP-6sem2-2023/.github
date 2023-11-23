@@ -3,7 +3,7 @@
 </p>
 
 ## Objetivo
-Este repositório tem como objetivo a implementação do jogo da onça, conforme designado pelo professor Victor Antonio da disciplina de Engenharia de Software III.
+Este repositório tem como objetivo a implementação do jogo da onça, conforme designado pelo professor Victor Antonio da disciplina de Engenharia de Software III pela Faculdade de Tecnologia de São Paulo.
 
 ## Equipe
 
