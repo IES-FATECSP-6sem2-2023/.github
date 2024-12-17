@@ -1,5 +1,5 @@
 
-<img src="https://github.com/lima1301lucas/FATEC/assets/56768879/57e3cacf-c9b3-4a25-87d8-f4ad1a3783c2.png"/> 
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56768879/396673905-3a646fe6-175c-4627-b02f-bb874c45402a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T213556Z&X-Amz-Expires=300&X-Amz-Signature=ffec8a269bded7f942ad686cf1702ba308683b86d5c932f7e07f4b87cb458337&X-Amz-SignedHeaders=host"/> 
 <br/>
  
 ## Sobre o jogo
